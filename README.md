@@ -67,15 +67,6 @@ Example:
 What's my system information?
 ```
 
-#### find-files
-
-Searches for files matching a pattern.
-
-Example:
-```
-Can you find all JavaScript files in my current directory?
-```
-
 ## Security
 
 - All commands require explicit permission through desktop notifications
