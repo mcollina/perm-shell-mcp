@@ -1,5 +1,7 @@
 # PermShell MCP
 
+[![smithery badge](https://smithery.ai/badge/@mcollina/perm-shell-mcp)](https://smithery.ai/server/@mcollina/perm-shell-mcp)
+
 A Model Context Protocol (MCP) server for executing shell commands with permission notifications.
 
 ## Features
@@ -11,6 +13,15 @@ A Model Context Protocol (MCP) server for executing shell commands with permissi
 
 ## Installation
 
+### Installing via Smithery
+
+To install PermShell for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mcollina/perm-shell-mcp):
+
+```bash
+npx -y @smithery/cli install @mcollina/perm-shell-mcp --client claude
+```
+
+### Manual Installation
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/perm-shell-mcp.git
