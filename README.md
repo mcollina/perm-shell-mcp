@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcollina-perm-shell-mcp-badge.png)](https://mseep.ai/app/mcollina-perm-shell-mcp)
+
 # PermShell MCP
 
 A Model Context Protocol (MCP) server for executing shell commands with permission notifications.
